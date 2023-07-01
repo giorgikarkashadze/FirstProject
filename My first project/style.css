@@ -1,0 +1,23 @@
+body{
+    background-color: #D7F3FF
+}
+div{
+    width: 320px; background-color: white; margin: auto; padding: 16px; border-radius: 20px
+}
+img{
+    max-width: 100%;
+}
+/*h1{
+    color: red;
+    font-size: 22px;
+     text-align: center; 
+}*/
+.bitcamp-heading{
+    color:blue;
+}
+#qr-code-heading{
+    font-size: 40px;
+}
+p{
+    font-size: 15px; text-align: center;
+}
